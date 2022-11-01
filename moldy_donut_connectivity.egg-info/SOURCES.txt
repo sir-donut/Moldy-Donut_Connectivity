@@ -1,6 +1,0 @@
-setup.py
-moldy_donut_connectivity.egg-info/PKG-INFO
-moldy_donut_connectivity.egg-info/SOURCES.txt
-moldy_donut_connectivity.egg-info/dependency_links.txt
-moldy_donut_connectivity.egg-info/requires.txt
-moldy_donut_connectivity.egg-info/top_level.txt
